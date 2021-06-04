@@ -1,2 +1,0 @@
-name: aza
-harddisk:50 GB
